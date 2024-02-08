@@ -15,7 +15,7 @@ If you find this work useful for your research, please cite our paper:
 ```bibtex
 @article{chen2024sagent,
   title={S-Agents: self-organizing agents in open-ended environment},
-  author={Chen, Jiaqi and Jiang, Yuxian and Jiachen Lu and Zhang, Li},
+  author={Chen, Jiaqi and Jiang, Yuxian and Lu, Jiachen and Zhang, Li},
   journal={arXiv preprint arxiv:2402.04578},
   year={2024}
 }
