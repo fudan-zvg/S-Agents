@@ -2,8 +2,8 @@
   <img src="figures/s_agent_cover.jpeg" alt="S-Agents Icon"/>
 </p>
 
-### [Official repo](https://github.com/fudan-zvg/S-Agents), [Arxiv](https://arxiv.org/pdf/2402.04578.pdf)
-> **[S-Agents: self-organizing agents in open-ended environment](https://github.com/fudan-zvg/S-Agents)**  
+# S-Agents: self-organizing agents in open-ended environment
+> **[S-Agents: self-organizing agents in open-ended environment](https://arxiv.org/pdf/2402.04578.pdf)**  
 > Jiaqi Chen*, Yuxian Jiang*, Jiachen Lu and Li Zhang  
 > Zhang Vision Group, Fudan Univerisity
 
