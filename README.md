@@ -2,8 +2,8 @@
   <img src="figures/1_cover.jpeg" alt="S-Agents Icon"/>
 </p>
 
-# S-Agents: Self-organizing Agents in Open-ended Environment
-> **[S-Agents: Self-organizing Agents in Open-ended Environment](https://arxiv.org/abs/2402.04578)**  
+# S-Agents: Self-organizing Agents in Open-ended Environments
+> **[S-Agents: Self-organizing Agents in Open-ended Environments](https://arxiv.org/abs/2402.04578)**  
 > Jiaqi Chen*, Yuxian Jiang*, Jiachen Lu and Li Zhang  
 > Zhang Vision Group, Fudan Univerisity
 
@@ -78,7 +78,7 @@ During collaborative processes in agent organization, we've observed leaf agents
 If you find this work useful for your research, please cite our paper:
 ```bibtex
 @article{chen2024sagent,
-  title={S-Agents: self-organizing agents in open-ended environment},
+  title={S-Agents: self-organizing agents in open-ended environments},
   author={Chen, Jiaqi and Jiang, Yuxian and Lu, Jiachen and Zhang, Li},
   journal={arXiv preprint arxiv:2402.04578},
   year={2024}
